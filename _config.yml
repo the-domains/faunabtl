@@ -1,19 +1,4 @@
-name: FaunaBTL
-favicon: null
-layout_spectrum: 0.5796455813106149
 typography_spectrum: 0.9910888199228793
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.8189318049699068
   saturation: 0.2584081038367003
   rhythmicContrast: 0.31420127348974347
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5796455813106149
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: FaunaBTL
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Generamos experiencias para los 5 sentidos
 purpose: []
